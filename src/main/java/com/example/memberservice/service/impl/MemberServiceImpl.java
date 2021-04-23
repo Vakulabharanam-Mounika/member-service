@@ -1,7 +1,7 @@
 package com.example.memberservice.service.impl;
 import com.example.memberservice.entity.Member;
 import com.example.memberservice.repository.MemberRepository;
-import com.example.memberservice.service.MemberService;
+import com.example.memberservice.service.impl.MemberService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
